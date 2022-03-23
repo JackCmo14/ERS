@@ -1,4 +1,4 @@
-# EngineeringResillientSystems
+# ERS
 Collection of work undertaken for the module CMP-417 - Engineering Resilient Systems
 
 This repository includes PHP source code vulnerable to CWE-089 SQL Injection. 
